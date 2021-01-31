@@ -44,6 +44,10 @@ background-image: url("images/tom3.png");
 background-image: url("images/tom4.png");
 }
 
+.i {
+  background-image: url("images/birthday.jpg")
+}
+
 .set {
   margin: 10% auto;
 }
@@ -78,4 +82,12 @@ background-image: url("images/tom4.png");
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.fa-heart {
+  color:red;
+}
+
+.fa-birthday-cake {
+  color:white;
 }
